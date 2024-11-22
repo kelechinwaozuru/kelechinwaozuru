@@ -9,7 +9,7 @@ import Experience from "./components/Experience";
 
 const App = () => {
   return (
-    <div className="bg-background1 bg-cover bg-blend-screen">
+    <div className="bg-background1 md:bg-contain">
       <Header />
       <Hero />
       <About />
