@@ -24,7 +24,7 @@ const Services = () => {
     <section id="services" className="p-6 md:p-12">
       <div className="container  ">
         <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">
-          Services
+          SKILLS
         </h2>
         <div className="mt-20 flex flex-wrap gap-10">
           {services.map((service, index) => (
