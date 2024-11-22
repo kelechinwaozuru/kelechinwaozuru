@@ -8,7 +8,7 @@ const About = () => {
       <section id="about" className=" text-white p-6 md:p-12">
         <motion.div variants={textVariant()}>
           <h2 className="text-3xl font-bold text-white mb-4 md:text-[60px] sm:text-[50px] text-[30px]">
-            About Me
+            ABOUT ME 
           </h2>
         </motion.div>
 
