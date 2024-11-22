@@ -11,12 +11,12 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const services = [
-  { title: "Penetration Testing", icon: faUserSecret },
+  { title: "Risk Mangement", icon: faUserSecret },
   { title: "Network Security", icon: faShieldAlt },
   { title: "Vulnerability Assessment", icon: faSearch },
   { title: "Incident Response", icon: faBell },
   { title: "Threat Intelligence", icon: faEye },
-  { title: "Cloud Security", icon: faCloud },
+  { title: "NIST Cybersecurity Framework", icon: faCloud },
 ];
 
 const Services = () => {
