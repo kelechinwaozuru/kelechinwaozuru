@@ -16,7 +16,7 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="text-lg leading-relaxed"
         >
-          I am driven and passionate about safeguarding people's security. I enjoy woeking with technology, analyzing and solving problems.
+          I am driven and passionate about safeguarding people's security. I enjoy working with technology, analyzing and solving problems.
           Motivated, ready to learn and eager to launch a career in Cybersecurity Governance, Risk and Compliance (GRC). Well equipped with 
           foundational knowledge in risk management, regulatory standards and security framework such as NIST. Passionate about working in 
           building secure and compliants system while aligning cybersecurity initiative with business goals. Trained in analyzing risks,
