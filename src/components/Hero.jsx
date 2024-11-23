@@ -9,7 +9,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg md:text-2xl text-white mb-8">
           Aspiring Governance Risk and Complanince(GRC) Analyst. Security and
-          Risk Management
+          Risk Management.
         </p>
         <div className="flex justify-center items-center flex-wrap gap-10 md:p-12 p-6">
           <a
