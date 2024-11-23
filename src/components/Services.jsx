@@ -11,9 +11,9 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const services = [
-  { title: "Risk Mangement", icon: faUserSecret },
-  { title: "Network Security", icon: faShieldAlt },
-  { title: "Vulnerability Assessment", icon: faSearch },
+  { title: "Risk Assessment", icon: faUserSecret },
+  { title: "Security Policies", icon: faShieldAlt },
+  { title: "Analytical thinking", icon: faSearch },
   { title: "Incident Response", icon: faBell },
   { title: "Threat Intelligence", icon: faEye },
   { title: "NIST Cybersecurity Framework", icon: faCloud },
