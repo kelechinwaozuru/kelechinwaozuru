@@ -35,11 +35,11 @@ const Header = () => {
               Services
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="#projects" className="hover:text-white">
               Projects
             </a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact" className="hover:text-white">
               Contact
@@ -70,11 +70,11 @@ const Header = () => {
                   Services
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#projects" className="hover:text-white">
                   Projects
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#contact" className="hover:text-white">
                   Contact
