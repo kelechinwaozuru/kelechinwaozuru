@@ -24,7 +24,7 @@ const Hero = () => {
             rel="noreferrer noopener"
             className="bg-transparent text-green-500 border py-3 px-6 rounded-md text-lg font-semibold hover:bg-green-500 hover:border-none hover:text-white w-full md:w-[250px]"
           >
-            Read articles
+            Read Blogs
           </a>
         </div>
       </div>
