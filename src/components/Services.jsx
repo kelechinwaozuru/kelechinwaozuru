@@ -16,7 +16,7 @@ const services = [
   { title: "Analytical thinking", icon: faSearch },
   { title: "Incident Response", icon: faBell },
   { title: "Threat Intelligence", icon: faEye },
-  { title: "NIST Cybersecurity Framework", icon: faCloud },
+  { title: "Database Management", icon: faCloud },
 ];
 
 const Services = () => {
