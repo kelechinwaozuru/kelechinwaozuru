@@ -18,9 +18,7 @@ const About = () => {
         >
           I am driven and passionate about safeguarding people's security. I enjoy working with technology, analyzing and solving problems.
           Motivated, ready to learn and eager to launch a career in Cybersecurity Governance, Risk and Compliance (GRC). Well equipped with 
-          foundational knowledge in risk management, regulatory standards and security framework such as NIST. Passionate about working in 
-          building secure and compliants system while aligning cybersecurity initiative with business goals. Trained in analyzing risks,
-          supporting compliance efforts, and contributing to a culture of security awareness. Seeking opportunities to grow, utilize,
+          foundational knowledge in risk management, and security framework. Passionate about working in building secure and compliants system while aligning cybersecurity initiative with business goals. Trained in risk assessment,to a culture of security awareness. Seeking opportunities to grow, utilize,
           drive my thirst for knowledge and make an impact in the evolving field of cybersecurity. 
           
             
