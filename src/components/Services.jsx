@@ -9,13 +9,14 @@ import {
   faCloud,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBrain } from "@fortawesome/free-solid-svg-icons/faBrain";
 
 const services = [
   { title: "Risk Assessment", icon: faUserSecret },
   { title: "Security Policies", icon: faShieldAlt },
   { title: "Analytical thinking", icon: faSearch },
   { title: "Incident Response", icon: faBell },
-  { title: "Threat Intelligence", icon: faEye },
+  { title: "Threat Intelligence", icon: faBrain },
   { title: "Database Management", icon: faCloud },
 ];
 
