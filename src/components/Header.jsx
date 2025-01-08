@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { menu, close } from "../assets";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
-import { faLinkedin, faMedium } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedin, faMedium } from "@fortawesome/free-brands-svg-icons";
 
 const Header = () => {
   const [showNavItems, setShowNavItems] = useState(false);
@@ -43,6 +43,14 @@ const Header = () => {
           className="text-white text-2xl"
         >
           <FontAwesomeIcon icon={faLinkedin} />
+        </a>
+        <a
+          href="https://github.com/kelechinwaozuru/kelechinwaozuru"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="text-white text-2xl"
+        >
+          <FontAwesomeIcon icon={faGithub} />
         </a>
         <a
           href="https://kelechinwaozuru.medium.com/"
