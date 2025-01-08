@@ -24,7 +24,7 @@ const Header = () => {
   return (
     <header className=" text-white p-4 flex justify-between items-center">
       <a href="/" className="text-2xl font-bold">
-        Nwaozuru Kelechi
+         Kelechi Nwaozuru
       </a>
       
       <div className="flex gap-4 items-center justify-center">
