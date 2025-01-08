@@ -1,6 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import { menu, close } from "../assets";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
+import { faLinkedin, faMedium } from "@fortawesome/free-brands-svg-icons";
 
 const Header = () => {
   const [showNavItems, setShowNavItems] = useState(false);
