@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { menu, close } from "../assets";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Header = () => {
   const [showNavItems, setShowNavItems] = useState(false);
@@ -23,6 +24,33 @@ const Header = () => {
       <a href="/" className="text-2xl font-bold">
         Nwaozuru Kelechi
       </a>
+      
+      <div className="flex gap-4 items-center justify-center">
+        <a
+          href="mailto:kelechi.danny1234@gmail.com"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="text-white text-2xl"
+        >
+          <FontAwesomeIcon icon={faEnvelope} />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/kelechi-nwaozuru"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="text-white text-2xl"
+        >
+          <FontAwesomeIcon icon={faLinkedin} />
+        </a>
+        <a
+          href="https://kelechinwaozuru.medium.com/"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="text-white text-2xl"
+        >
+          <FontAwesomeIcon icon={faMedium} />
+        </a>
+      </div>
       <nav>
         <ul className=" hidden md:flex space-x-4">
           <li>
