@@ -105,7 +105,7 @@ const Header = () => {
               </li>
               <li>
                 <a href="#services" className="hover:text-white">
-                  Services
+                  Skills
                 </a>
               </li>
               {/* <li>
