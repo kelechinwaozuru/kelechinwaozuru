@@ -18,7 +18,7 @@ const About = () => {
         >
           I am driven and passionate about safeguarding people's security. I enjoy working with technology, analyzing and solving problems.
           Motivated, ready to learn and eager to launch a career in Cybersecurity Governance, Risk and Compliance (GRC). I am dedicated to developing expertise in risk assessment methodologies and compliance frameworks and gaining proficiency in GRC tools and platforms to streamline security processes. Committed to continuous learning and growth in this field.
-          Seeking opportunities to grow, utilize,drive my thirst for knowledge and make an impact in the evolving field of cybersecurity.
+          Seeking opportunities to grow, utilize,drive my thirst for knowledge, contribute my skills, knowledge, and strategic mindset to help organizations strengthen their security posture and make an impact in the evolving field of cybersecurity.
           
             
         
